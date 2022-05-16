@@ -1,2 +1,2 @@
-# Fundamentos do ReactJS
- Aplicação feita no Ignite da Rocketseat
+# React Js fundamentals
+Application made in the Rocketseat Ignite course
